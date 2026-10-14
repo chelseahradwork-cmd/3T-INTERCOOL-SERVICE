@@ -1,0 +1,6 @@
+{
+  "name": "3T Intercool & Service | บริษัท 3ต อินเตอร์คูล แอนด์ เซอร์วิส จำกัด",
+  "description": "เว็บไซต์ทางการ บจก. 3ต อินเตอร์คูล แอนด์ เซอร์วิส รับออกแบบ ติดตั้ง ซ่อมบำรุงระบบปรับอากาศ ห้องเย็น ท่อลม ชิลเลอร์ และตู้แช่ครบวงจร พร้อมระบบประเมินราคาและจัดการคำขอ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
